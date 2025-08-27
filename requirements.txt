@@ -91,3 +91,4 @@ wcwidth==0.2.13
 widgetsnbextension==4.0.14
 xgboost==3.0.4
 xyzservices==2025.4.0
+streamlit==1.30.0
